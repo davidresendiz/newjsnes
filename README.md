@@ -63,3 +63,5 @@ To build a distribution:
     $ yarn run build
 
 This will create `dist/jsnes.min.js`.
+
+# drjsnes
